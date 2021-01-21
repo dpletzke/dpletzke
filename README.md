@@ -13,6 +13,9 @@
 <a href="https://medium.com/@dpletzke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dpletzke" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Github Stats</h3>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpletzke&theme=dark" alt="dpletzke" /></p>
+
 <h3 align="left">Languages and Tools I've used:</h3>
 
 Languages
@@ -45,7 +48,4 @@ Other
 * Git
   
 
-
-<h3 align="center">Github Stats</h3>
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpletzke&theme=dark" alt="dpletzke" /></p>
 
