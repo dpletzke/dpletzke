@@ -24,6 +24,7 @@ Languages
 
 Frontend
 * React
+* React-Native
 * Sass
 * HTML5
 * Bootstrap
