@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools I've used:</h3>
 
 Languages
-* Javascript
+* JavaScript / TypeScript
 * Ruby
 
 Frontend
