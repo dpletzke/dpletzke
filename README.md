@@ -27,19 +27,17 @@
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/materialui/materialui-original.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="60">
-</p>
-  <p align="left">
-    <img src="https://github.com/dpletzke/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="60">
+    <img src="assets/icons/dot.png" height="60">    
+                                                   <img src="https://github.com/dpletzke/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="60">
-    Graphql
+    <img src="assets/icons/graphql.png" height="60">                                                                                                     
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/rails/rails-original-wordmark.svg" height="60">
-  </p>
+</p>
   <p align="left">
     <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="60">
     <img src="assets/icons/jest.png" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/mocha/mocha-plain.svg" height="60">
-  </p>
-  <p align="left">
+     <img src="assets/icons/dot.png" height="60">                                                                                                     
     <img src="assets/icons/iconfinder_Figma_1_square_2925245.png" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/electron/electron-original-wordmark.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/linux/linux-original.svg" height="60">
