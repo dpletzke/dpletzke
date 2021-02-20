@@ -27,7 +27,8 @@
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/materialui/materialui-original.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="60">
-    <img src="assets/icons/dot.png" height="60">    
+</p>
+<p align="center">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="60">
     <img src="assets/icons/graphql.png" height="60">                                                                                                     
