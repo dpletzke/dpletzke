@@ -17,36 +17,34 @@
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpletzke&theme=dark" alt="dpletzke" /></p>
 
 <h3 align="left">Languages and Tools I've used:</h3>
-
-Languages
-* JavaScript / TypeScript
-* Ruby
-
-Frontend
-* React
-* React-Native
-* Sass
-* HTML5
-* Bootstrap
-* CSS3
-  
-Backend
-* NodeJS
-* PostgreSQL
-* GraphQL
-* Ruby on Rails
-
-Testing
-* Cypress
-* Jest
-* Mocha/Chai
-
-Other
-* Electron
-* Linux
-* Heroku
-* Figma
-* Git
-  
-
-
+<p align="left>
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/typescript/typescript-plain.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" height="60">
+</p>
+<p align="left">                                                                                                           
+<img src="https://github.com/dpletzke/devicon/blob/master/icons/react/react-original-wordmark.svg" height="60">
+    <img src="assets/icons/react-native.png" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/materialui/materialui-original.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="60">
+                                                                                                             </p>
+  <p align="left">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="60">
+    Graphql
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/rails/rails-original-wordmark.svg" height="60">
+  </p>
+  <p align="left">
+    <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="60">
+    <img src="assets/icons/jest.png" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/mocha/mocha-plain.svg" height="60">
+  </p>
+  <p align="left">
+    <img src="assets/icons/iconfinder_Figma_1_square_2925245.png" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/electron/electron-original-wordmark.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/linux/linux-original.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="60">
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/git/git-original-wordmark.svg" height="60">
+  </p>
+  <div>
