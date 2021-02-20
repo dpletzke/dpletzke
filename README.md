@@ -21,8 +21,8 @@
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/typescript/typescript-plain.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" height="60">
-⚪                                                                                                     
-<img src="https://github.com/dpletzke/devicon/blob/master/icons/react/react-original-wordmark.svg" height="60">
+    <img src="assets/icons/dot.png" height="60">                                                                                                     
+    <img src="https://github.com/dpletzke/devicon/blob/master/icons/react/react-original-wordmark.svg" height="60">
     <img src="assets/icons/react-native.png" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/materialui/materialui-original.svg" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60">
