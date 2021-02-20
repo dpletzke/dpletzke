@@ -36,7 +36,6 @@
     <img src="assets/icons/dot.png" height="60">                                                                                                     
 </p>
   <p align="center">
-    <img src="assets/icons/dot.png" height="60">                                                                                                     
     <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="60">
     <img src="assets/icons/jest.png" height="60">
     <img src="https://github.com/dpletzke/devicon/blob/master/icons/mocha/mocha-plain.svg" height="60">
