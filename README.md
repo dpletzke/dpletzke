@@ -2,10 +2,10 @@
 <h3 align="center">A passionate full-stack developer from Chicago</h3>
 
 <br>
-⚙️ I'm working on my naïve data-analysis skeleton and finding a job!<br>
-💡 I'm learning Electron + GraphQL. <br>
+⚙️ I'm working on DNAducation and finding a job!<br>
+💡 I'm learning ORMs and GraphQL <br>
 🎓 I graduated bootcamp DEC2020 and I'm excited to get started in software dev. <br>
-🛠️ I've used fullstack technologies including: React + Express + Postgres <br>
+🛠️ I've focussed on fullstack technologies including: React + Express + Postgres <br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
