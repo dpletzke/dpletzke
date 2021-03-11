@@ -3,7 +3,7 @@
 
 <br>
 ⚙️ I'm working on DNAducation and finding a job!<br>
-💡 I'm learning ORMs and GraphQL <br>
+💡 I'm learning Electron and in-memory datastores <br>
 🎓 I graduated bootcamp DEC2020 and I'm excited to get started in software dev. <br>
 🛠️ I've focussed on fullstack technologies including: React + Express + Postgres <br>
 <br>
