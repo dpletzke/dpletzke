@@ -4,7 +4,7 @@
 <br>
 ⚙️ I'm working right now with React, Typescript, MongoDB, Firebase!<br>
 💡 I'm learning Electron and in-memory datastores <br>
-🎓 I graduated bootcamp DEC2020 and I'm excited to get started in software dev. <br>
+🎓 I graduated bootcamp in DEC2020 and am now interning with Speer.io. I'm excited to continue in software dev! <br>
 🛠️ I've focussed on fullstack technologies including: React + Express + Postgres <br>
 <br>
 <h3 align="left">Connect with me:</h3>
