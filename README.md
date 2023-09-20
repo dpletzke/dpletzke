@@ -2,10 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Chicago</h3>
 
 <br>
-⚙️ I'm working right now with React, Typescript, MongoDB, Firebase!<br>
-💡 I'm learning Electron and in-memory datastores <br>
-🎓 I graduated bootcamp in DEC2020 and am now interning with Speer.io. I'm excited to continue in software dev! <br>
-🛠️ I've focussed on fullstack technologies including: React + Express + Postgres <br>
+⚙️ I'm working right now on  mobile app with cloud storage and push notifications!<br>
+🎓 I graduated a bootcamp and have 2 years experience in full stack. <br>
+🛠️ I've focused on fullstack technologies including: React + Node.js + Postgres <br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
