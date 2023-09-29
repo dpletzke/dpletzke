@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack developer from Chicago</h3>
 
 <br>
-⚙️ I'm working right now on  mobile app with cloud storage and push notifications!<br>
+⚙️ I'm working right now on a React Native app with cloud storage and push notifications!<br>
 🎓 I graduated a bootcamp and have 2 years experience in full stack. <br>
-🛠️ I've focused on fullstack technologies including: React + Node.js + Postgres <br>
+🛠️ I've focused on fullstack technologies including: React/React Native + Node.js + MongoDB <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/djpletzke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="djpletzke" height="30" width="40" /></a>
 <a href="https://medium.com/@dpletzke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dpletzke" height="30" width="40" /></a>
